@@ -45,7 +45,7 @@ export default class RandomVid extends React.Component {
           <div className="heads">
               <Grid container columns={1}>
                   <Grid.Column>
-                      <Image src={logo2} href='http://github.com/cskonopka' size='medium' centered/>
+                      <Image src={logo2} href='http://github.com/cskonopka/randomvideobutton' size='medium' centered/>
                   </Grid.Column>
               </Grid>
               <Grid container columns={1}>
